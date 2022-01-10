@@ -9,5 +9,6 @@ public class Clase {
 		System.out.println("Versión remota");
 		System.out.println("Versión remota");
 		System.out.println("Version del becario");
+		System.out.println("Version del becario");
 	}
 }
