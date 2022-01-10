@@ -8,5 +8,6 @@ public class Clase {
 		System.out.println("Hola git");
 		System.out.println("Versión remota");
 		System.out.println("Versión remota");
+		System.out.println("Version del becario");
 	}
 }
